@@ -1,0 +1,6 @@
+* text=auto eol=lf
+archive/** -text
+skill/**/skill.md -text
+skill/**/references/** -text
+*.png binary
+*.pdf binary
