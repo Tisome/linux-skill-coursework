@@ -1,0 +1,86 @@
+[
+  {
+    "version": "v1",
+    "week": 2,
+    "skill": "skill/v1/skill.md",
+    "skill_sha256": "597403C9E8C0A1FF3FAEB1D2873C16AF294257F08C89A011308280D7777B179B",
+    "reference": "skill/v1/references/课程实验学习与演进记录.md",
+    "reference_sha256": "59CE2CC1EFFA4D9BDA735CEB017E18ABC81D01707B8AB3B5A02B4A4101C1FC19",
+    "source_skill": "03 实验一 第二周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "03 实验一 第二周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  },
+  {
+    "version": "v2",
+    "week": 3,
+    "skill": "skill/v2/skill.md",
+    "skill_sha256": "DE24A6A523AB38F9D698E313D0A88D1B2873A673B7FB6FA898E9A615F423C153",
+    "reference": "skill/v2/references/课程实验学习与演进记录.md",
+    "reference_sha256": "7D9882BEEF534595701AA0B0EC4EF8EE3D34853C5A7FC9CBF495D2D709553742",
+    "source_skill": "04 实验二 第三周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "04 实验二 第三周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  },
+  {
+    "version": "v3",
+    "week": 4,
+    "skill": "skill/v3/skill.md",
+    "skill_sha256": "AEA0A2F2E4B58D0B8C62F5FBA34732FFC92196441AE8DA53CFFE66373C4F5C2A",
+    "reference": "skill/v3/references/课程实验学习与演进记录.md",
+    "reference_sha256": "3C4F39D1DB72B205772F18B3754917E6A9A097F25412F8532C9D8AE6BF06260D",
+    "source_skill": "05 实验三 第四周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "05 实验三 第四周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  },
+  {
+    "version": "v4",
+    "week": 5,
+    "skill": "skill/v4/skill.md",
+    "skill_sha256": "9B8975BBD10F1B1456BE09CF7EE44F8C80EE5D512B77FBD7ACFA6BA08A3A0D21",
+    "reference": "skill/v4/references/课程实验学习与演进记录.md",
+    "reference_sha256": "63E784B2EC2815F4131497BE63F63CD6EC73FB39A10C0CCB32676E0A0F43F68B",
+    "source_skill": "06 实验四 第五周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "06 实验四 第五周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  },
+  {
+    "version": "v5",
+    "week": 6,
+    "skill": "skill/v5/skill.md",
+    "skill_sha256": "3D59F2A42551A78BA43851E855542CB2E526BA027D1646336A957CFB9295E0CC",
+    "reference": "skill/v5/references/课程实验学习与演进记录.md",
+    "reference_sha256": "4762314952E21256724BC63C28D4D8CDDC82844839746727E1B50C2902728639",
+    "source_skill": "07 实验五 第六周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "07 实验五 第六周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  },
+  {
+    "version": "v6",
+    "week": 7,
+    "skill": "skill/v6/skill.md",
+    "skill_sha256": "68800E759A2DA58BD094309B56C915D5C62F454556CA5D76882691B88F334093",
+    "reference": "skill/v6/references/课程实验学习与演进记录.md",
+    "reference_sha256": "46B14E55BA5D2C07D5C4917A8D4E66ECC7385AE32A449B87C14A2A5C1353B796",
+    "source_skill": "08 实验六 第七周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "08 实验六 第七周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  },
+  {
+    "version": "v7",
+    "week": 8,
+    "skill": "skill/v7/skill.md",
+    "skill_sha256": "3256A27878C4E43B0629D9673B02E0C0BFDC17DD30CFDEF9A4E70C330D6E269C",
+    "reference": "skill/v7/references/课程实验学习与演进记录.md",
+    "reference_sha256": "2010CE9FE3FCE6FEF9DE069E63881B77539EDFADFB39E1E0AB04E2187F84FB21",
+    "source_skill": "09 实验七 第八周预习作业（已完成）/skill/SKILL.md",
+    "source_reference": "09 实验七 第八周预习作业（已完成）/skill/references/课程实验学习与演进记录.md",
+    "archive_commit": "a4f31e58c64e2f116f9dd2843e67d0e222d84ff3",
+    "archive_commit_date": "2026-09-27"
+  }
+]
