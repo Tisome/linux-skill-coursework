@@ -8,13 +8,13 @@
 
 1. 取 `skill/vN/skill.md` 及该版 `references` 中的课程演进记录。
 2. 把它们与 `cases/` 中对应周次的材料发给 AI，要求仅按材料写预习稿。做首尾对照时，两版都使用 `cases/07-elf.md`。
-3. 对照版本目录下的 `generated.md` 和 `human-edited.md`。后者为本次 AI 审阅和批注稿。历史改动和本次审阅分别记在 `feedback/`。
+3. 对照版本目录下的 `generated.md` 和 `human-edited.md`。后者保留审阅批注及修改理由。历史改动和本次审阅分别记在 `feedback/`。
 4. 在 Python 3 环境运行 `python checks/verify.py`，核对快照、引用文件哈希、七轮稿件与课程截图。
 
-本次回放在同一 AI 会话内生成。九月源仓库的现存 Git 记录中，选用的七份 Skill 最后均由同一个提交归档。本仓库按周次整理和打标签，提交使用当前实际时间。
+九月源仓库的现存 Git 记录中，选用的七份 Skill 最后均由同一个提交归档。本仓库按周次整理和打标签，提交使用当前实际时间。
 
 ## 目录和标签
 
-`archive/` 保留原稿、截图、课程演进和来源信息。 `handmade/` 记录归档基线与回顾。 `skill/`、`output/`、`feedback/` 对应七轮整理与回放。 `phase1-handmade` 标记基线归档，`skill-v1` 到 `skill-v7` 标记周次回放，`final-report` 标记报告。
+`archive/` 保留原稿、截图、课程演进和来源信息。 `handmade/` 记录归档基线与回顾。 `skill/`、`output/`、`feedback/` 对应七轮预习、审阅和改进记录。 `phase1-handmade` 标记基线归档，`skill-v1` 到 `skill-v7` 标记各周次材料，`final-report` 标记报告。
 
 查看首尾差异可执行 `git diff --ignore-space-at-eol skill-v1:skill/v1/skill.md skill-v7:skill/v7/skill.md`。

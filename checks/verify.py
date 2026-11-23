@@ -1,4 +1,4 @@
-"""Verify that the archived snapshots and the replay artifacts are intact."""
+"""Verify that the archived snapshots and the review materials are intact."""
 
 from hashlib import sha256
 from json import loads
@@ -40,8 +40,8 @@ def main() -> None:
     for case in ("output/v1/same-elf.md", "output/v7/same-elf.md",
                  "output/v7/transfer-reading.md"):
         assert read_text(case).strip()
-    print("PASS: 7 distinct Skill snapshots, 7 references and 7 annotated replays")
-    print("PASS: 6 version difference notes, 7 PNG files and 3 additional replays")
+    print("PASS: 7 distinct Skill snapshots, 7 references and 7 annotated drafts")
+    print("PASS: 6 version difference notes, 7 PNG files and 3 additional comparison drafts")
 
 
 if __name__ == "__main__":
